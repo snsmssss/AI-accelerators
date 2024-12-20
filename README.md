@@ -6,8 +6,8 @@ An artificial intelligence (AI) accelerator, also known as an AI chip, deep
 
 # NPU
 In order to give practical demos to the participants, we have installed a Khadas Vim3 Pro Single Board Computer(SBC). This has a NPU
-![Uploading image.png…]()
 
+Install Khadas Software for Neural Net(KSNN)- https://www.youtube.com/watch?v=JaGBdhAZqTM
 https://github.com/khadas/ksnn/blob/master/docs/ksnn_user_usage_v1.4.pdf
 
 # TPU
