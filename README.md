@@ -6,6 +6,7 @@ An artificial intelligence (AI) accelerator, also known as an AI chip, deep
 
 # NPU
 In order to give practical demos to the participants, we have installed a Khadas Vim3 Pro Single Board Computer(SBC). This has a NPU
+![Uploading image.png…]()
 
 # TPU
 https://sites.research.google/trc/about/
