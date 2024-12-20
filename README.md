@@ -9,6 +9,8 @@ In order to give practical demos to the participants, we have installed a Khadas
 
 ![image](https://github.com/user-attachments/assets/a152ef0d-4966-4543-849c-40104d3e67c7)
 
+(image courtesy - https://docs.khadas.com/products/sbc/start)
+
 
 Install Khadas Software for Neural Net(KSNN)- https://www.youtube.com/watch?v=JaGBdhAZqTM
 
