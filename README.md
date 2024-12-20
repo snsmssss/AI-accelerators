@@ -5,7 +5,10 @@ This captures the experience gained working on NPU, TPU and GPU. A.s part of the
 An artificial intelligence (AI) accelerator, also known as an AI chip, deep learning processor or neural processing unit (NPU), is a hardware accelerator that is built to speed AI neural networks, deep learning and machine learning. 
 
 # NPU
-In order to give practical demos to the participants, we have installed a Khadas Vim3 Pro Single Board Computer(SBC). This has a NPU
+In order to give practical demos to the participants, we have installed a Khadas Vim3 Pro Single Board Computer(SBC). This has a NPU as shown below
+
+![image](https://github.com/user-attachments/assets/a152ef0d-4966-4543-849c-40104d3e67c7)
+
 
 Install Khadas Software for Neural Net(KSNN)- https://www.youtube.com/watch?v=JaGBdhAZqTM
 
