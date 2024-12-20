@@ -17,6 +17,11 @@ Install Khadas Software for Neural Net(KSNN)- https://www.youtube.com/watch?v=Ja
 https://github.com/khadas/ksnn/blob/master/docs/ksnn_user_usage_v1.4.pdf
 
 # TPU
+Google offered me 30 days credit for using TPU POD. This helped me to demonstrate this to attendees of the Faculty Development Program.
 https://sites.research.google/trc/about/
+
+Google documentation is excellent. It answers all your questions. I found it to be extremely useful. 
+
+https://cloud.google.com/tpu/docs
 
 # GPU
